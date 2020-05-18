@@ -8,6 +8,12 @@ body {
     font-size: 50px;
     color: #fff;
 }
+/*CTA is call to Action*/
+.link--cta {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
 h2 {
     font-weight: 300;
     font-size: 42px;
@@ -17,10 +23,6 @@ a {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
-}
-p {
-    font-size: 21px;
-    color: gray;
 }
 .rightalign {
     text-align: right;
