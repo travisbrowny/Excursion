@@ -3,21 +3,30 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/* HEADINGS */
+
 .header--main {
     font-weight: normal;
     font-size: 50px;
     color: #fff;
 }
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: #fff;
+}
+.header--subheader {
+    font-size: 21px;
+    color: gray;
+}
+
+/* LINKS */
+
 /*CTA is call to Action*/
 .link--cta {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
-}
-h2 {
-    font-weight: 300;
-    font-size: 42px;
-    color: #fff;
 }
 a {
     color: aquamarine;
